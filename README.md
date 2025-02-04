@@ -1,0 +1,1 @@
+Il faut créer un fichier .env avec votre jeton API avant d'utiliser l'API.
